@@ -1,1 +1,1 @@
-This is the official repo of software development community of National Association of Computer Students in Sudan
+This is the official repo of software development community of Nigerian Association of Computer Students in Sudan
